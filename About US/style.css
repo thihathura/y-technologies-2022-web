@@ -1,0 +1,9 @@
+body {
+ background-image: url("background_image.png");
+/* background-color: #cccccc;*/
+}
+
+.col-sm {
+	color: white;
+}
+
